@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.Cart{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin: 15px 0;
+    padding: 0;
+}
